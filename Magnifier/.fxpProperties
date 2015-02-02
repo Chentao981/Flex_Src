@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fxpProperties abbreviated="false" authoringTool="Flex Builder" compiles="true" parentProject="12e261b2-4b79-4517-9f39-ceff9101f305" projectUUID="12e261b2-4b79-4517-9f39-ceff9101f305" pureCatalystProject="false" sdkVersion="3.6.0" uuid="d5cc21e6-9559-4345-ba81-3402abfa9305" version="15">
+  <projects/>
+  <src/>
+  <swc>
+    <linked location="sdkPlaceHolder" path="sdkPlaceHolder" position="0" uuid="d5cc21e6-9559-4345-ba81-3402abfa9305"/>
+    <linked location="D:/FlashWork/Magnifier/libs" path="/libs" position="1" uuid="d5cc21e6-9559-4345-ba81-3402abfa9305"/>
+  </swc>
+  <misc/>
+  <theme/>
+  <mxmlFormattingPrefs groupAttributesByState="true" maxLineWidth="100" mxmlAlignAttributes="true" mxmlAttributeOrder="id,userLabel,includeIn,excludeFrom,visible,x,y,z,left,right,top,bottom,width,height,minWidth,minHeight,maxWidth,maxHeight,label" mxmlKeepAttributeValuesOrganized="true"/>
+</fxpProperties>

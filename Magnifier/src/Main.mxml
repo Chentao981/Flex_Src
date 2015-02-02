@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml"
+				xmlns:view="com.chen.view.*"
+				layout="absolute">
+	<view:Magnifier width="200" height="200" zoomTarget="{grid}" zoom="5" />
+	<mx:DataGrid id="grid" x="325"  >
+		<mx:columns>
+			<mx:DataGridColumn dataField="col1" headerText="列 1"/>
+			<mx:DataGridColumn dataField="col2" headerText="列 2"/>
+			<mx:DataGridColumn dataField="col3" headerText="列 3"/>
+		</mx:columns>
+	</mx:DataGrid>
+	
+</mx:Application>
